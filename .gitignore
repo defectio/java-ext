@@ -1,0 +1,10 @@
+/bin/
+.DS_Store
+.product/bin/
+/target/
+/output/
+.classpath
+.project
+.settings/
+.mvn
+.DS_Store
