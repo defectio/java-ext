@@ -21,7 +21,7 @@ public class CrawlingExample {
 			try {
 				doc = Jsoup.connect(url + IT).get();
 				
-				System.out.println(doc);
+				// System.out.println(doc);
 				
 				 // 현재 날짜/시간 구하기        
 				LocalDateTime now = LocalDateTime.now();             
