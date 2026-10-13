@@ -1,0 +1,1 @@
+cpu bound process, io bound process : IO를 위한 sample.txt
